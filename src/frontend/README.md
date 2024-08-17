@@ -1,8 +1,12 @@
-# Frontend - Understand## Overview
+# Frontend
+ - Understand
+## Overview
 
 This directory will contain the frontend code for the Understand project, built with React.
 
-## Getting Started### Prerequisites- Node.js
+## Getting Started
+### Prerequisites
+- Node.js
 - npm or yarn
 
 ### Setup
