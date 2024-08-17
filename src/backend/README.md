@@ -1,8 +1,12 @@
-# Backend - Understand## Overview
+# Backend
+ - Understand
+## Overview
 
 This directory will contain the backend code for the Understand project, built with Django.
 
-## Getting Started### Prerequisites- Python
+## Getting Started
+### Prerequisites
+- Python
 - MySQL
 
 ### Setup
