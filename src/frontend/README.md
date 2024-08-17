@@ -1,5 +1,4 @@
-# Frontend
- - Understand
+# Frontend - Understand
 ## Overview
 
 This directory will contain the frontend code for the Understand project, built with React.
