@@ -1,5 +1,4 @@
-# Backend
- - Understand
+# Backend - Understand
 ## Overview
 
 This directory will contain the backend code for the Understand project, built with Django.
